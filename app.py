@@ -1,4 +1,5 @@
 from car import Car
+
 #create instance of a class (an object)
 car1=Car("Mustang", 2024, "red", False) #object created
 car2=Car("corvette", 2025, "blue", True)
